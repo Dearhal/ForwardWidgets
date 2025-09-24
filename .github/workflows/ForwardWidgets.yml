@@ -15,7 +15,7 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v5
       with:
-        repository: iTiaodahai/ForwardWidgets
+        repository: Dearhal/ForwardWidgets
         path: ForwardWidgets-repo
 
     - name: Run Bash Script
